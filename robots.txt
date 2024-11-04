@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eliwailo.github.io/DWM/sitemap_index.txt
+Sitemap: https://eliwailo.github.io/keP/sitemap_index.txt
+Sitemap: https://eliwailo.github.io/phO/sitemap_index.txt
+Sitemap: https://eliwailo.github.io/wCy/sitemap_index.txt
